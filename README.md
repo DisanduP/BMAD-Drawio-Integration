@@ -1,5 +1,3 @@
-# BMAD-Drawio-Integration-
-
 # BMAD Requirements Analyzer Agent - Setup Guide
 
 **Created:** 13 November 2025
